@@ -1,0 +1,33 @@
+h1, h2{
+    text-align: center;
+    color: #f9eac3;
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.form-text {
+    max-width: 5rem;
+}
+
+.form-button {
+   background-color: #333333;
+   border-radius: 10px;
+   color: #f9eac3;
+}
+
+.converter {
+    margin: auto auto;
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background-color: #333333;
+}
+
